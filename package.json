@@ -71,7 +71,7 @@
       "jasmine"
     ]
   },
-  "devDependencies": {
+  "dependencies": {
     "autoprefixer": "^6.2.3",
     "babel-cli": "6.8.0",
     "babel-core": "^6.5.1",
@@ -127,9 +127,7 @@
     "watch": "^0.18.0",
     "webpack": "^1.9.6",
     "webpack-dashboard": "0.0.1",
-    "webpack-dev-server": "^1.14.0"
-  },
-  "dependencies": {
+    "webpack-dev-server": "^1.14.0",
     "babel-runtime": "^6.11.6",
     "classnames": "^2.2.3",
     "dom-helpers": "^2.4.0"
